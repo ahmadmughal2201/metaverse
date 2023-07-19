@@ -7,7 +7,6 @@ import ExploreCard from "./ExploreCard";
 import { exploreWorlds } from "../../constants";
 import React from 'react'
 import { useState } from "react";
-import World from "./World";
 
 const Explore = () => {
   const [active, setActive] = useState('world-2')

@@ -30,7 +30,7 @@ export default function Home() {
           <div className='gradient-04 z-0' />
           <WhatsNew />
         </div>
-
+{/* 
         <World />
 
         <div className='relative'>
@@ -39,7 +39,7 @@ export default function Home() {
           <div className='gradient-04 z-0' />
           <Feedback />
         </div>
-        <Footer />
+        <Footer /> */}
 
       </div>
     </main>
